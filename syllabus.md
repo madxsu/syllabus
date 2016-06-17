@@ -23,15 +23,15 @@
 
 ###Lesson Plan
 * <span style = 'color:green;'>√</span> Create a Github account
-* <span style = 'color:blue;'>?</span> Set up Git locally and online
-* <span style = 'color:red;'>»</span> Create a Fork
+* <span style = 'color:green;'>√</span> Set up Git locally and online
+* <span style = 'color:green;'>√</span> Create a Fork
 * <span style = 'color:green;'>√</span> Create a Branch
 * <span style = 'color:green;'>√</span> Clone a Repo
 * <span style = 'color:red;'>»</span> Pull Changes for Branch
-* <span style = 'color:red;'>»</span> Add Changes
-* <span style = 'color:red;'>»</span> Commit Changes
-* <span style = 'color:red;'>»</span> Push Changes
-* <span style = 'color:red;'>»</span> Add new Remote repo
+* <span style = 'color:green;'>√</span> Add Changes
+* <span style = 'color:green;'>√</span> Commit Changes
+* <span style = 'color:green;'>√</span> Push Changes
+* <span style = 'color:green;'>√</span> Add new Remote repo
 * <span style = 'color:red;'>»</span> Fetch Remote changes
 * <span style = 'color:red;'>»</span> Add SSH Key
 * <span style = 'color:red;'>»</span> Merge Branches
